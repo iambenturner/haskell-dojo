@@ -1,5 +1,5 @@
 import Data.Char
---changes to committ
+--changes to committ 2
 _SIZE_ :: Int
 _SIZE_ = 3
 
