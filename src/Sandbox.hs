@@ -1,5 +1,6 @@
 module Sandbox where
 
-hello = "hello, world!"
+hello = "Hello, World!"
 
 ian = "ian"
+
