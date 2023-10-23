@@ -1,5 +1,5 @@
 import Data.Char
---changes to committ 2
+you can remove this line
 _SIZE_ :: Int
 _SIZE_ = 3
 
