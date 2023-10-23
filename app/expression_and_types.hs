@@ -1,6 +1,6 @@
 --x = 3 + 4
 
-you can remove this getAllLines
+
 --y = "abc"
 
 _A = 2.3
