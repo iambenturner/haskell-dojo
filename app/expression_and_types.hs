@@ -78,10 +78,8 @@ fourth :: [a] -> a
 fourth (_ : (_ : (_ : (y : _)))) = y
 
 fifth :: [a] -> a
-fifth l = l !! 4
---fifth (_ : (_ : (_ : (_ : z))))
-
-
+--fifth l = l !! 4
+fifth (_ : (_: (_ : (_ : (z : _))))) = z
 
 
 isSingleton :: [a] -> Bool
