@@ -1,6 +1,7 @@
 party :: [String]
 party = ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"]
 
+making an update to send to github
 --Destructure 
 
 --h : t = party
